@@ -1,2 +1,0 @@
-classpath*:org/u_compare/U_compareTypeSystem.xml
-classpath*:org/apache/uima/examples/SourceDocumentInformation.xml
