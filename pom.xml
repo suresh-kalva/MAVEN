@@ -18,9 +18,10 @@
 		<!-- Redeclare all type system dependencies in the pear <profile>, but 
 			with their <scope> set to provided (see below for more details). -->
 		<dependency>
-			<groupId>uk.ac.nactem.uima</groupId>
-			<artifactId>UCompareTypeSystem</artifactId>
-			<version>1.2.4</version>
+			<groupId>com.sarav</groupId>
+                        <artifactId>TomcatMavenApp</artifactId>
+                        <version>2.0</version>
+                        <packaging>war</packaging>
 		</dependency>
 		<dependency>
 			<groupId>junit</groupId>
