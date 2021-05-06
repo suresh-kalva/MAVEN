@@ -51,10 +51,10 @@
 					systems from Maven, which will automatically deal with type system dependencies 
 					and avoid the need for this profile. -->
 				<dependency>
-					<groupId>uk.ac.nactem.uima</groupId>
-					<artifactId>UCompareTypeSystem</artifactId>
-					<version>1.2.4</version>
-					<scope>provided</scope>
+					<groupId>com.sarav</groupId>
+                                        <artifactId>TomcatMavenApp</artifactId>
+                                        <version>2.0</version>
+                                        <packaging>war</packaging>
 				</dependency>
 			</dependencies>
 		</profile>
